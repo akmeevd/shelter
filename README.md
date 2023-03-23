@@ -3,5 +3,6 @@
 2. Любимов Сергей
 3. Акулов Даниил
 4. Баландин Дмитрий
-# *This Shelter project is to help for users to get pets from shelter*
-application is telergrambot answers a questions that interest for users with a desire to get pet (cat or dog)
+## *This Shelter project is to help for users to get pets from shelter*
+* telergrambot answers a questions that interest for users that want to get pet (cat or dog) 
+* potential owners must present the info about the pet daily per month (photo, menu, change in behavior: abandoning old habits, acquiring new ones, 
