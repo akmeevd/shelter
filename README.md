@@ -1,2 +1,2 @@
-# This Shelter project is to help for users to get pets from shelter
+# *This Shelter project is to help for users to get pets from shelter*
 
